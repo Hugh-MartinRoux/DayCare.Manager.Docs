@@ -13,4 +13,4 @@ To access the DayCare Connect configuration page, follow these instructions:
 1. Login to the DayCare Manager system using your My-DayCare account.
 2. In the navigation pane on the left, go to Advanced > Configuration > DayCare Connect.
 
-For a detailed guide to configuring DayCare Connect, see the [DayCare Connect Configuration Guide](./guides/configuring-daycare-connect.md).
+For a detailed guide to configuring DayCare Connect, see the [DayCare Connect Configuration Guide](./Guides/configuring-daycare-connect.md).
